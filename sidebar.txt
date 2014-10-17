@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[muy:home|Door43 (muy)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-muy|d43-muy repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-muy/archive/master.zip|d43-muy.zip]]
+
+**Recent Changes**
+{{changes>ns = muy}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/muy|Ethnologue data]]
+
